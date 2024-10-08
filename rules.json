@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "condition": {
+      "urlFilter": "*://www.youtube.com/s/player/*",
+      "resourceTypes": ["script"]
+    },
+    "action": {
+      "type": "block"
+    }
+  }
+]
